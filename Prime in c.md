@@ -18,7 +18,7 @@ int main() {
             break;
         }
     }
-
+    
     if (n == 1) {
         printf("1 is neither prime nor composite.");
     }
@@ -28,7 +28,6 @@ int main() {
         else
             printf("%d is not a prime number.", n);
     }
-
     return 0;
 }
 
